@@ -3,8 +3,8 @@
 
 <p align="center">
   <a href="https://albabustamante98.github.io/FocusLife/">
-    <img src="https://img.shields.io/badge/VER_DEMO-007BFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Demo">
-  </a>
+  <img src="https://img.shields.io/badge/VER_DEMO-007BFF?style=for-the-badge" alt="Ver Demo">
+</a>
 </p>
 
 <p align="center">
